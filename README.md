@@ -1,5 +1,5 @@
 # Treasure
-A z/OS simple Mainframe game written in REXX.
+A simple z/OS Mainframe game written in REXX.
 
 Back in the early 1980s home computers were new and there were lots of different models available on the market. There was the ZX81, the Specturm 48K, the BBC Micro, the Electron, the VIC-20, the Commodore 64, the Atari 800, or how about lesser none ones such as the Jupiter Ace, Dragon 32 or even the derided Mattel Aquarius. What all these machines had in common was they came with a BASIC Interpreter. BASIC is a computer language that is virtually unheard of now, but back then it was as popular as, say Python is today.
 
